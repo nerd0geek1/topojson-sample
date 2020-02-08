@@ -10,5 +10,9 @@
   "devDependencies": {
     "@types/node": "^13.7.0",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/d3": "^5.7.2",
+    "d3": "^5.15.0"
   }
 }
