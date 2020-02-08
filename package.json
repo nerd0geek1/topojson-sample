@@ -1,0 +1,10 @@
+{
+  "name": "Romulus",
+  "version": "1.0.0",
+  "description": "This is a project to visualize children who are on nursery school waiting list.",
+  "main": "index.js",
+  "repository": "git@github.com:nerd0geek1/topojson-sample.git",
+  "author": "Kohei Tabata <nerd0geek1@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
