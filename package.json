@@ -9,6 +9,7 @@
   "private": true,
   "devDependencies": {
     "@types/node": "^13.7.0",
+    "http-server": "^0.12.1",
     "ts-loader": "^6.2.1",
     "tslint": "^6.0.0",
     "typescript": "^3.7.5",
